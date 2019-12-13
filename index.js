@@ -15,7 +15,6 @@ var server = http.createServer(app);
 var settings = {
     httpAdminRoot:"/red",
     httpNodeRoot: "/api",
-    userDir:"/Users/volaka/.nodered/",
     adminAuth: {
       type: "credentials",
       users: [

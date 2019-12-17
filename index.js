@@ -13,7 +13,7 @@ var server = http.createServer(app);
 
 // Create the settings object - see default settings.js file for other options
 var settings = {
-    httpAdminRoot:"/red",
+    httpAdminRoot:"/",
     httpNodeRoot: "/api",
     adminAuth: {
       type: "credentials",

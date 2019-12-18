@@ -20,7 +20,7 @@ var settings = {
       users: [
           {
               username: "admin",
-              password: "$2b$08$Z52MJ2zCdkyz6IwEqXVsR.NmhPHEmJbHSunuZHBJMJBimhm10lQQe",
+              password: "$2b$08$Ts5NDiDCTM23hxeYhvjYAue/iYtPXqteuz/4uBQooa3EznF/R1ery",
               permissions: "*"
           }
       ]
